@@ -14,6 +14,10 @@ ggsave(here ("figs","built-barchart.png" ))
 
 ## YES overwrite the file that is there now
 ## that came from me (Jenny)
+#We have done all the changs that we needed to :D :D 
+#Adding stuff to have merge conflit in the branch :)
+#This is the only way you learn things. wooowwww
 
 ## when this script works, stage & commit it and the png file
 ## PUSH!
+
